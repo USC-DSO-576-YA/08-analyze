@@ -18,8 +18,8 @@ operating rules, and a requested report. Write the expected output from the
 sample data before deciding which intermediate pandas calculations and tables
 you need.
 
-The problems cover an inspection shortlist, a repeating cash cycle, hospital
-ward transfer capacity, and delivery-van routes with planned fuel stops.
+The problems cover delivery-van routes with planned fuel stops, a repeating
+cash cycle, hospital ward transfer capacity, and an inspection shortlist.
 
 Problem 3 includes a brief data exchange with a partner: each of you receives
 one ward's monthly staffed-bed counts from the instructor, and you share the
